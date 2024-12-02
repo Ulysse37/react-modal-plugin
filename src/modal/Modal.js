@@ -7,9 +7,9 @@ const Modal = ({ open, closeImg, message, onClose }) => {
         <div className="modal-overlay">
           <dialog open={open} className="validation-modal">
             <p>{message}</p>
-            <a href="#" onClick={onClose}>
+            <button onClick={onClose}>
               <img src={closeImg} alt="close button" />
-            </a>
+            </button>
           </dialog>
         </div>
       )}
