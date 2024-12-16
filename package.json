@@ -5,7 +5,7 @@
   "description": "A simple modal dialog component for React",
   "homepage": "https://github.com/Ulysse37/react-modal-plugin",
   "license": "MIT",
-  "keywords": ["react", "modal-dialog", "react-component"],
+  "keywords": ["react", "modal-dialog", "modal", "dialog", "react-component"],
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
