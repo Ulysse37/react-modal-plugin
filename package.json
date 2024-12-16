@@ -6,7 +6,6 @@
   "homepage": "https://github.com/Ulysse37/react-modal-plugin",
   "license": "MIT",
   "keywords": ["react", "modal-dialog", "react-component"],
-  "private": true,
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
